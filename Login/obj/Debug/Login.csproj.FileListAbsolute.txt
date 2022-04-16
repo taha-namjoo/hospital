@@ -1,0 +1,811 @@
+E:\Final_Project_1\0.4\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.4\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.4\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.4\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.4\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.4\Login\Login\bin\Debug\Bunifu.Core.dll
+E:\Final_Project_1\0.4\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.4\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.4\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.4\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.4\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.4\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.4\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.4\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.4\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.4\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.4\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.5\Login\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.5\Login\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.5\Login\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.5\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.5\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.5\Login\Login\Login\bin\Debug\Bunifu.Core.dll
+E:\Final_Project_1\0.5\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.5\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.5\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.5\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.5\Login\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.5\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.5\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.5\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.5\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.5\Login\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.5\Login\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.5\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.6\Login\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.6\Login\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.6\Login\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.6\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.6\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.6\Login\Login\Login\bin\Debug\Bunifu.Core.dll
+E:\Final_Project_1\0.6\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.6\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.AddDoctor.resources
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.6\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.7\Login\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.7\Login\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.7\Login\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.7\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.7\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.7\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.7\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.AddDoctor.resources
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.7\Login\Login\Login\obj\Debug\Login.AddND.resources
+E:\Final_Project_1\0.7\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.7\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Login.exe.config
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Login.exe
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Login.pdb
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.AddDoctor.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.AddND.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.exe
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.pdb
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Login.exe.config
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Login.exe
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Login.pdb
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.AddDoctor.resources
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.AddND.resources
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.exe
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.pdb
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.d.resources
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.NuresePage.resources
+C:\Users\CHR\Desktop\new this 0.2\new this 0.2\0.7\0.7\Login\Login\Login\obj\Debug\Login.AddP.resources
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.8\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.AddDoctor.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.AddND.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.AddP.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.PBill.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.8\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.AddND.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.AddNDd.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.AddP.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.PBill.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.9\0.8\0.8\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\Login.exe.config
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\Login.exe
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\Login.pdb
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.AddND.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.AddNDd.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.AddP.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.d.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.NuresePage.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.PBill.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.exe
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\obj\Debug\Login.pdb
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\Dapper.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\this new 0.5\Login\Login\Login\bin\Debug\Dapper.xml
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Login.exe.config
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Login.exe
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Login.pdb
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Dapper.dll
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\Dapper.xml
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.AddND.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.AddNDd.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.AddP.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.d.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.NuresePage.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.PBill.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.exe
+C:\Users\CHR\Downloads\Telegram Desktop\this new 0.5\this new 0.5\Login\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.AddND.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.AddNDd.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.AddP.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.PBill.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.10\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.10\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.11\Login\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.AddP.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.PBill.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.11\Login\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.12\Login\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.AddP.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.PBill.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.12\Login\Login\Login\obj\Debug\Login.UserControls.Mail.resources
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.13\Login\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.AddP.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.PBill.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.UserControls.Mail.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.UserControls.AddP.resources
+E:\Final_Project_1\0.13\Login\Login\Login\obj\Debug\Login.Forms.DoctorPage.resources
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.14\Login\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.AddP.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.Forms.DoctorPage.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.UserControls.AddP.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.PBill.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.UserControls.Mail.resources
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.14\Login\Login\Login\obj\Debug\Login.pdb
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.AddP.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.d.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.Forms.DoctorPage.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.UserControls.AddP.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.DataGrid.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.doctorlogin.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.ManagerLogin.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.ManagerPag.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.NuresePage.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.Nurselogin.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.PBill.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.UserControls.Mail.resources
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.exe
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.pdb
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\Login.exe.config
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\Login.exe
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\Login.pdb
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\Dapper.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\Dapper.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\TOMaaR\Documents\C#\HospitalManagement\0.15\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.AddP.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.Forms.DoctorPage.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.UserControls.AddP.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.PBill.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.UserControls.Mail.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.15\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.UserControls.RecivePatient.resources
+E:\Final_Project_1\0.15\Login\Login\obj\Debug\Login.UserControls.SendPatient.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.17\Login1\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.Forms.DoctorPage.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.UserControls.AddP.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.UserControls.Mail.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.UserControls.RecivePatient.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.UserControls.SendPatient.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.UserControls.PBill.resources
+E:\Final_Project_1\0.17\Login1\Login\Login\obj\Debug\Login.Forms.History.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.Forms.DoctorPage.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.UserControls.AddP.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.UserControls.Mail.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.UserControls.PBill.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.UserControls.RecivePatient.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.UserControls.SendPatient.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.18\Login\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.Forms.Insurance.resources
+E:\Final_Project_1\0.18\Login\Login\Login\obj\Debug\Login.UserControls.Peyment.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.Forms.DoctorPage.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.Forms.Insurance.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.UserControls.AddP.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.UserControls.Mail.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.UserControls.PBill.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.UserControls.Peyment.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.UserControls.RecivePatient.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.UserControls.SendPatient.resources
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.20\0.20\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.20\0.20\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.d.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.Forms.DoctorPage.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.Forms.Insurance.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.UserControls.AddP.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.UserControls.Mail.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.UserControls.PBill.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.UserControls.Peyment.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.UserControls.RecivePatient.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.UserControls.SendPatient.resources
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Final_Project_1\0.21\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\Final_Project_1\0.21\Login\Login\obj\Debug\Login.UserControls.StaffPayCheck.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.22\0.22\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.Forms.DoctorPage.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.Forms.Insurance.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.UserControls.AddP.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.UserControls.Mail.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.UserControls.PBill.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.UserControls.Peyment.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.UserControls.RecivePatient.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.UserControls.SendPatient.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.UserControls.StaffPayCheck.resources
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.22\0.22\Login\Login\obj\Debug\Login.Forms.InsuranceDebtt.resources
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.24\Login\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.Forms.DoctorPage.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.Forms.Insurance.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.Forms.InsuranceDebtt.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.UserControls.AddP.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.UserControls.Mail.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.UserControls.PBill.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.UserControls.Peyment.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.UserControls.RecivePatient.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.UserControls.SendPatient.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.UserControls.StaffPayCheck.resources
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.24\Login\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Login.exe.config
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Login.exe
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Login.pdb
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Dapper.dll
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\MySql.Data.dll
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Google.Protobuf.dll
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\Dapper.xml
+E:\Final_Project_1\0.26\0.26\Login\Login\bin\Debug\MySql.Data.xml
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.Forms.DoctorPage.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.Forms.Insurance.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.UserControls.AddD.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.UserControls.AddP.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.DataGrid.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.doctorlogin.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.Form1.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.ManagerLogin.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.ManagerPag.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.NuresePage.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.Nurselogin.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.UserControls.PBill.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.UserControls.Peyment.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.UserControls.RecivePatient.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.UserControls.SendPatient.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.UserControls.StaffPayCheck.resources
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.csproj.CopyComplete
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.exe
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.pdb
+E:\Final_Project_1\0.26\0.26\Login\Login\obj\Debug\Login.Forms.InsuranceDebt.resources
